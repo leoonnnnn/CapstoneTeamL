@@ -1,8 +1,12 @@
-0 (optional). extract_sp_backbone.py takes in a pdb files (just download one from PDB or EMDB) and spits out the sugar phosphate backbone as a pdb file
-
-1 (required). sp_backbone_to_nodes.py can run using extract_sp_backone.py's output OR as a standalone script. inputs: EITHER a pdb file (download from PDB or EMDB). outputs: phosphate nodes (phosphorus atoms) separately, sugar nodes separately
-
-2 (required*). pdb2xyz.py converts pdb files to xyz files
+TLDR: download extract_only_nodes.py and pdb2xyz.py and RUN extract_only_nodes.py
 
 
-*if you want it as an xyz file
+
+0. (optional) extract_full_backbone.py takes in a pdb files (just download one from PDB or EMDB) and spits out the sugar phosphate backbone as a pdb file
+
+1. (required) extract_only_nodes.py can as a standalone script (OR using extract_full_backbone.py's output). inputs: EITHER a pdb file (download from PDB or EMDB). outputs: 3 files (phosphate and sugar nodes separately as pdb's and then together in a human readable text file)
+
+2. (required*) pdb2xyz.py converts pdb files to xyz files
+
+
+*extract_only_nodes.py imports pdb2xyz.py so you only need to have it downloaded and in the same folder as extract_only_nodes.py
