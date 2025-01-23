@@ -1,0 +1,5584 @@
+Residue    3:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue    4:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue    5:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue    6:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue    7:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue    8:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue    9:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   10:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   11:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   12:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   13:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   14:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   15:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   16:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   17:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   18:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   19:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   20:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   21:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   22:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   23:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   24:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   25:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   26:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   27:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   28:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   29:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   30:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   31:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   32:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   33:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   34:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   35:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   36:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   37:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   38:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   39:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   40:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   41:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   42:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   43:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   44:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   45:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   46:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   47:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   48:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   49:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   50:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   51:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   52:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   53:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   54:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   55:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   56:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   57:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   58:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   59:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   60:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   61:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   62:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   63:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   64:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   65:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   66:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   67:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   68:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   69:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   70:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   71:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   72:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   73:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   74:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   75:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   76:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   77:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   78:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   79:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   80:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   81:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   82:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   83:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   84:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   85:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   86:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   87:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   88:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   89:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   90:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   91:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   92:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   93:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   94:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   95:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   96:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   97:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   98:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue   99:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  100:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  101:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  102:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  103:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  104:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  105:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  106:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  107:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  108:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  109:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  110:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  111:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  112:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  113:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  114:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  115:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  116:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  117:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  118:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  119:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  120:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  121:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  122:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  123:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  124:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  125:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  126:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  127:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  128:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  129:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  130:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  131:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  132:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  133:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  134:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  135:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  136:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  137:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  138:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  139:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  140:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  141:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  142:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  143:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  144:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  145:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  146:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  147:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  148:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  149:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  150:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  151:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  152:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  153:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  154:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  155:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  156:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  157:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  158:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  159:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  160:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  161:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  162:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  163:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  164:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  165:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  166:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  167:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  168:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  169:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  170:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  171:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  172:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  173:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  174:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  175:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  176:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  177:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  178:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  179:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  180:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  181:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  182:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  183:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  184:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  185:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  186:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  187:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  188:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  189:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  190:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  191:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  192:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  193:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  194:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  195:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  196:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  197:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  198:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  199:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  200:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  201:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  202:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  203:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  204:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  205:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  206:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  207:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  208:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  209:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  210:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  211:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  212:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  213:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  214:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  215:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  216:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  217:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  218:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  219:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  220:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  221:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  222:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  223:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  224:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  225:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  226:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  227:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  228:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  229:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  230:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  231:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  232:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  233:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  234:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  235:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  236:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  237:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  238:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  239:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  240:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  241:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  242:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  243:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  244:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  245:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  246:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  247:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  248:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  249:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  250:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  251:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  252:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  253:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  254:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  255:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  256:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  257:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  258:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  259:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  260:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  261:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  262:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  263:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  264:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  265:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  266:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  267:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  268:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  269:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  270:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  271:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  272:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  273:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  274:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  275:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  276:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  277:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  278:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  279:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  280:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  281:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  282:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  283:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  284:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  285:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  286:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  287:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  288:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  289:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  290:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  291:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  292:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  293:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  294:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  295:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  296:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  297:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  298:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  299:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  300:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  301:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  302:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  303:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  304:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  305:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  306:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  307:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  308:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  309:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  310:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  311:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  312:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  313:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  314:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  315:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  316:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  317:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  318:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  319:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  320:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  321:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  322:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  323:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  324:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  325:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  326:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  327:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  328:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  329:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  330:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  331:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  332:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  333:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  334:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  335:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  336:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  337:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  338:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  339:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  340:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  341:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  342:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  343:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  344:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  345:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  346:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  347:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  348:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  349:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  350:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  351:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  352:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  353:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  354:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  355:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  356:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  357:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  358:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  359:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  360:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  361:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  362:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  363:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  364:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  365:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  366:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  367:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  368:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  369:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  370:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  371:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  372:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  373:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  374:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  375:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  376:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  377:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  378:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  379:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  380:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  381:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  382:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  383:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  384:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  385:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  386:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  387:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  388:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  389:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  390:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  391:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  392:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  393:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  394:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  395:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  396:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  397:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  398:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  399:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  400:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  401:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  402:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  403:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  404:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  405:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  406:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  407:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  408:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  409:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  410:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  411:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  412:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  413:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  414:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  415:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  416:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  417:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  418:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  419:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  420:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  421:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  422:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  423:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  424:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  425:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  426:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  427:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  428:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  429:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  430:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  431:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  432:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  433:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  434:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  435:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  436:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  437:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  438:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  439:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  440:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  441:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  442:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  443:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  444:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  445:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  446:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  447:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  448:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  449:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  450:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  451:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  452:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  453:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  454:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  455:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  456:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  457:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  458:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  459:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  460:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  461:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  462:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  463:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  464:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  465:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  466:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  467:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  468:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  469:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  470:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  471:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  472:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  473:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  474:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  475:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  476:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  477:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  478:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  479:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  480:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  481:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  482:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  483:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  484:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  485:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  486:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  487:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  488:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  489:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  490:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  491:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  492:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  493:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  494:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  495:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  496:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  497:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  498:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  499:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  500:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  501:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  502:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  503:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  504:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  505:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  506:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  507:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  508:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  509:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  510:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  511:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  512:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  513:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  514:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  515:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  516:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  517:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  518:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  519:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  520:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  521:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  522:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  523:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  524:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  525:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  526:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  527:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  528:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  529:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  530:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  531:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  532:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  533:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  534:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  535:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  536:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  537:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  538:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  539:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  540:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  541:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  542:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  543:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  544:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  545:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  546:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  547:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  548:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  549:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  550:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  551:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  552:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  553:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  554:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  555:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  556:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  557:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  558:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  559:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  560:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  561:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  562:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  563:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  564:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  565:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  566:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  567:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  568:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  569:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  570:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  571:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  572:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  573:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  574:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  575:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  576:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  577:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  578:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  579:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  580:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  581:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  582:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  583:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  584:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  585:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  586:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  587:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  588:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  589:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  590:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  591:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  592:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  593:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  594:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  595:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  596:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  597:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  598:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  599:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  600:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  601:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  602:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  603:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  604:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  605:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  606:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  607:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  608:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  609:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  610:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  611:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  612:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  613:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  614:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  615:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  616:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  617:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  618:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  619:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  620:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  621:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  622:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  623:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  624:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  625:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  626:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  627:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  628:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  629:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  630:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  631:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  632:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  633:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  634:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  635:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  636:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  637:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  638:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  639:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  640:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  641:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  642:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  643:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  644:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  645:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  646:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  647:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  648:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  649:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  650:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  651:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  652:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  653:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  654:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  655:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  656:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  657:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  658:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  659:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  660:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  661:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  662:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  663:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  664:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  665:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  666:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  667:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  668:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  669:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  670:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  671:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  672:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  673:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  674:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  675:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  676:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  677:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  678:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  679:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  680:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  681:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  682:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  683:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  684:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  685:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  686:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  687:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  688:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  689:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  690:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  691:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  692:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  693:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  694:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  695:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  696:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  697:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  698:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  699:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  700:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  701:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  702:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  703:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  704:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  705:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  706:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  707:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  708:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  709:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  710:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  711:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  712:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  713:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  714:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  715:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  716:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  717:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  718:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  719:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  720:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  721:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  722:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  723:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  724:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  725:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  726:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  727:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  728:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  729:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  730:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  731:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  732:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  733:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  734:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  735:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  736:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  737:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  738:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  739:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  740:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  741:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  742:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  743:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  744:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  745:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  746:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  747:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  748:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  749:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  750:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  751:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  752:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  753:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  754:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  755:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  756:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  757:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  758:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  759:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  760:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  761:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  762:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  763:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  764:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  765:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  766:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  767:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  768:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  769:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  770:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  771:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  772:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  773:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  774:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  775:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  776:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  777:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  778:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  779:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  780:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  781:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  782:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  783:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  784:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  785:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  786:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  787:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  788:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  789:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  790:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  791:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  792:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  793:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  794:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  795:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  796:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  797:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  798:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  799:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  800:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  801:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  802:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  803:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  804:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  805:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  806:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  807:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  808:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  809:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  810:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  811:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  812:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  813:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  814:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  815:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  816:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  817:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  818:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  819:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  820:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  821:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  822:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  823:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  824:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  825:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  826:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  827:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  828:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  829:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  830:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  831:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  832:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  833:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  834:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  835:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  836:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  837:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  838:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  839:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  840:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  841:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  842:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  843:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  844:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  845:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  846:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  847:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  848:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  849:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  850:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  851:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  852:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  853:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  854:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  855:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  856:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  857:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  858:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  859:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  860:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  861:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  862:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  863:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  864:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  865:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  866:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  867:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  868:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  869:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  870:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  871:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  872:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  873:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  874:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  875:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  876:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  877:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  878:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  879:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  880:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  881:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  882:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  883:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  884:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  885:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  886:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  887:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  888:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  889:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  890:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  891:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  892:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  893:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  894:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  895:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  896:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  897:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  898:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  899:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  900:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  901:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  902:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  903:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  904:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  905:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  906:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  907:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  908:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  909:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  910:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  911:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  912:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  913:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  914:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  915:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  916:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  917:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  918:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  919:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  920:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  921:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  922:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  923:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  924:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  925:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  926:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  927:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  928:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  929:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  930:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  931:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  932:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  933:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  934:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  935:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  936:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  937:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  938:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  939:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  940:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  941:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  942:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  943:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  944:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  945:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  946:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  947:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  948:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  949:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  950:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  951:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  952:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  953:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  954:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  955:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  956:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  957:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  958:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  959:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  960:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  961:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  962:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  963:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  964:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  965:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  966:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  967:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  968:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  969:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  970:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  971:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  972:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  973:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  974:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  975:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  976:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  977:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  978:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  979:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  980:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  981:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  982:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  983:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  984:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  985:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  986:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  987:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  988:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  989:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  990:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  991:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  992:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  993:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  994:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  995:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  996:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  997:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  998:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  999:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1000:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1001:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1002:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1003:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1004:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1005:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1006:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1007:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1008:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1009:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1010:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1011:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1012:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1013:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1014:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1015:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1016:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1017:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1018:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1019:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1020:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1021:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1022:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1023:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1024:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1025:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1026:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1027:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1028:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1029:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1030:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1031:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1032:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1033:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1034:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1035:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1036:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1037:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1038:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1039:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1040:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1041:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1042:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1043:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1044:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1045:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1046:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1047:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1048:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1049:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1050:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1051:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1052:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1053:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1054:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1055:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1056:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1057:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1058:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1059:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1060:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1061:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1062:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1063:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1064:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1065:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1066:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1067:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1068:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1069:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1070:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1071:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1072:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1073:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1074:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1075:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1076:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1077:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1078:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1079:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1080:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1081:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1082:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1083:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1084:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1085:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1086:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1087:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1088:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1089:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1090:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1091:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1092:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1093:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1094:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1095:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1096:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1097:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1098:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1099:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1100:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1101:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1102:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1103:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1104:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1105:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1106:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1107:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1108:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1109:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1110:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1111:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1112:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1113:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1114:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1115:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1116:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1117:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1118:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1119:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1120:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1121:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1122:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1123:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1124:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1125:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1126:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1127:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1128:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1129:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1130:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1131:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1132:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1133:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1134:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1135:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1136:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1137:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1138:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1139:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1140:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1141:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1142:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1143:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1144:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1145:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1146:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1147:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1148:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1149:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1150:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1151:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1152:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1153:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1154:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1155:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1156:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1157:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1158:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1159:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1160:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1161:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1162:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1163:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1164:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1165:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1166:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1167:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1168:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1169:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1170:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1171:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1172:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1173:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1174:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1175:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1176:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1177:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1178:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1179:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1180:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1181:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1182:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1183:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1184:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1185:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1186:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1187:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1188:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1189:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1190:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1191:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1192:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1193:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1194:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1195:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1196:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1197:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1198:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1199:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1200:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1201:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1202:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1203:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1204:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1205:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1206:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1207:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1208:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1209:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1210:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1211:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1212:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1213:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1214:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1215:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1216:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1217:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1218:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1219:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1220:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1221:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1222:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1223:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1224:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1225:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1226:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1227:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1228:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1229:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1230:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1231:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1232:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1233:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1234:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1235:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1236:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1237:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1238:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1239:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1240:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1241:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1242:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1243:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1244:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1245:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1246:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1247:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1248:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1249:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1250:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1251:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1252:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1253:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1254:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1255:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1256:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1257:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1258:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1259:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1260:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1261:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1262:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1263:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1264:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1265:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1266:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1267:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1268:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1269:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1270:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1271:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1272:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1273:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1274:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1275:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1276:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1277:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1278:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1279:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1280:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1281:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1282:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1283:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1284:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1285:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1286:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1287:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1288:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1289:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1290:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1291:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1292:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1293:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1294:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1295:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1296:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1297:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1298:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1299:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1300:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1401:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1402:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1403:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1501:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue 1502:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  -19:
+  Sugar centroid: [112.198, 113.063, 129.234]
+  Phosphate center: [112.744, 115.719, 126.085]
+
+Residue  -18:
+  Sugar centroid: [112.363, 106.950, 130.446]
+  Phosphate center: [111.277, 109.833, 127.574]
+
+Residue  -17:
+  Sugar centroid: [109.091, 101.794, 127.876]
+  Phosphate center: [112.884, 103.858, 128.502]
+
+Residue  -16:
+  Sugar centroid: [108.766, 96.238, 123.748]
+  Phosphate center: [110.118, 98.276, 127.609]
+
+Residue  -15:
+  Sugar centroid: [107.501, 100.353, 120.278]
+  Phosphate center: [110.990, 99.317, 123.050]
+
+Residue  -14:
+  Sugar centroid: [104.535, 105.080, 119.176]
+  Phosphate center: [108.923, 103.895, 119.846]
+
+Residue  -13:
+  Sugar centroid: [102.000, 109.837, 120.982]
+  Phosphate center: [106.059, 108.600, 119.178]
+
+Residue  -12:
+  Sugar centroid: [100.997, 113.422, 125.237]
+  Phosphate center: [103.858, 113.131, 121.613]
+
+Residue  -11:
+  Sugar centroid: [103.024, 113.987, 130.481]
+  Phosphate center: [102.905, 116.495, 126.444]
+
+Residue  -10:
+  Sugar centroid: [105.436, 113.881, 136.267]
+  Phosphate center: [104.038, 116.531, 133.176]
+
+Residue   -9:
+  Sugar centroid: [102.617, 110.488, 138.720]
+  Phosphate center: [104.119, 114.324, 139.518]
+
+Residue   -8:
+  Sugar centroid: [108.540, 108.019, 140.922]
+  Phosphate center: [104.779, 108.271, 140.743]
+
+Residue   -7:
+  Sugar centroid: [112.823, 103.321, 138.264]
+  Phosphate center: [109.446, 104.546, 141.719]
+
+Residue   -6:
+  Sugar centroid: [107.391, 103.546, 136.585]
+  Phosphate center: [110.946, 101.218, 135.975]
+
+Residue   -5:
+  Sugar centroid: [101.534, 105.635, 136.054]
+  Phosphate center: [103.980, 101.774, 136.331]
+
+Residue   -4:
+  Sugar centroid: [96.531, 105.666, 132.345]
+  Phosphate center: [98.626, 103.168, 135.616]
+
+Residue   -3:
+  Sugar centroid: [94.520, 103.918, 127.300]
+  Phosphate center: [94.696, 102.363, 131.678]
+
+Residue   -2:
+  Sugar centroid: [95.614, 101.220, 122.477]
+  Phosphate center: [93.037, 100.527, 126.271]
+
+Residue   -1:
+  Sugar centroid: [98.810, 97.614, 119.500]
+  Phosphate center: [94.523, 97.840, 121.121]
+
+Residue    0:
+  Sugar centroid: [99.516, 92.865, 115.500]
+  Phosphate center: [96.927, 94.649, 117.966]
+
+Residue    1:
+  Sugar centroid: [104.993, 91.793, 113.996]
+  Phosphate center: [102.291, 95.106, 115.687]
+
+Residue    2:
+  Sugar centroid: [108.275, 89.547, 110.093]
+  Phosphate center: [107.803, 93.644, 112.181]
+
+Residue    3:
+  Sugar centroid: [109.074, 88.868, 104.660]
+  Phosphate center: [110.638, 91.661, 107.915]
+
+Residue    4:
+  Sugar centroid: [107.619, 89.570, 99.337]
+  Phosphate center: [111.074, 90.923, 102.105]
+
+Residue    5:
+  Sugar centroid: [104.744, 92.142, 95.373]
+  Phosphate center: [109.157, 91.856, 96.685]
+
+Residue    6:
+  Sugar centroid: [101.769, 96.208, 93.242]
+  Phosphate center: [105.822, 94.290, 92.359]
+
+Residue    7:
+  Sugar centroid: [98.494, 100.674, 93.515]
+  Phosphate center: [101.368, 98.876, 90.514]
+
+Residue    8:
+  Sugar centroid: [97.033, 105.749, 95.253]
+  Phosphate center: [97.689, 103.653, 91.233]
+
+Residue    9:
+  Sugar centroid: [98.710, 110.800, 96.820]
+  Phosphate center: [96.471, 108.957, 93.200]
+
+Residue   10:
+  Sugar centroid: [101.940, 115.222, 98.055]
+  Phosphate center: [98.273, 114.379, 95.482]
+
+Residue   11:
+  Sugar centroid: [106.145, 118.606, 96.835]
+  Phosphate center: [101.627, 118.781, 96.566]
+
+Residue   12:
+  Sugar centroid: [109.950, 120.379, 93.201]
+  Phosphate center: [105.978, 121.934, 94.949]
+
+Residue   13:
+  Sugar centroid: [112.365, 120.815, 88.118]
+  Phosphate center: [109.860, 123.452, 90.909]
+
+Residue   14:
+  Sugar centroid: [111.193, 120.096, 82.594]
+  Phosphate center: [111.904, 123.604, 85.525]
+
+Residue   15:
+  Sugar centroid: [107.510, 119.952, 77.945]
+  Phosphate center: [110.782, 122.690, 79.808]
+
+Residue   16:
+  Sugar centroid: [102.819, 121.532, 75.224]
+  Phosphate center: [107.116, 123.093, 75.761]
+
+Residue   17:
+  Sugar centroid: [98.078, 124.365, 76.410]
+  Phosphate center: [101.939, 124.716, 73.284]
+
+Residue   18:
+  Sugar centroid: [93.148, 126.754, 78.727]
+  Phosphate center: [96.330, 127.640, 75.498]
+
+Residue   19:
+  Sugar centroid: [90.372, 130.317, 82.167]
+  Phosphate center: [91.364, 129.996, 77.674]
+
+Residue   20:
+  Sugar centroid: [89.418, 134.783, 86.000]
+  Phosphate center: [88.613, 133.656, 81.585]
+
+Residue   21:
+  Sugar centroid: [86.645, 139.473, 89.155]
+  Phosphate center: [87.332, 137.773, 84.854]
+
+Residue  101:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  201:
+  Sugar centroid: Not found
+  Phosphate center: Not found
+
+Residue  -20:
+  Sugar centroid: [102.662, 136.381, 91.744]
+  Phosphate center: [105.757, 137.865, 94.802]
+
+Residue  -19:
+  Sugar centroid: [98.440, 132.057, 92.721]
+  Phosphate center: [102.989, 133.132, 93.595]
+
+Residue  -18:
+  Sugar centroid: [94.833, 127.832, 91.210]
+  Phosphate center: [98.374, 128.453, 94.087]
+
+Residue  -17:
+  Sugar centroid: [93.620, 123.326, 88.011]
+  Phosphate center: [94.995, 124.189, 92.379]
+
+Residue  -16:
+  Sugar centroid: [94.198, 119.188, 83.851]
+  Phosphate center: [93.777, 119.539, 88.479]
+
+Residue  -15:
+  Sugar centroid: [96.497, 114.882, 81.141]
+  Phosphate center: [94.196, 115.498, 84.910]
+
+Residue  -14:
+  Sugar centroid: [101.177, 112.025, 81.367]
+  Phosphate center: [96.530, 111.383, 82.662]
+
+Residue  -13:
+  Sugar centroid: [106.736, 110.363, 82.049]
+  Phosphate center: [102.489, 108.698, 82.707]
+
+Residue  -12:
+  Sugar centroid: [111.404, 109.914, 85.516]
+  Phosphate center: [108.090, 107.219, 83.773]
+
+Residue  -11:
+  Sugar centroid: [113.718, 109.941, 90.736]
+  Phosphate center: [112.837, 106.935, 87.458]
+
+Residue  -10:
+  Sugar centroid: [113.398, 110.198, 96.369]
+  Phosphate center: [115.301, 107.377, 93.121]
+
+Residue   -9:
+  Sugar centroid: [110.354, 109.841, 100.993]
+  Phosphate center: [113.566, 107.332, 98.889]
+
+Residue   -8:
+  Sugar centroid: [105.935, 108.403, 104.286]
+  Phosphate center: [110.170, 107.744, 104.198]
+
+Residue   -7:
+  Sugar centroid: [100.920, 106.294, 104.947]
+  Phosphate center: [104.065, 108.137, 107.352]
+
+Residue   -6:
+  Sugar centroid: [97.674, 102.174, 103.840]
+  Phosphate center: [98.050, 105.341, 106.865]
+
+Residue   -5:
+  Sugar centroid: [95.089, 97.775, 101.337]
+  Phosphate center: [94.678, 100.346, 104.899]
+
+Residue   -4:
+  Sugar centroid: [94.667, 92.494, 99.778]
+  Phosphate center: [91.953, 95.540, 101.478]
+
+Residue   -3:
+  Sugar centroid: [97.010, 87.075, 99.967]
+  Phosphate center: [92.749, 89.378, 99.324]
+
+Residue   -2:
+  Sugar centroid: [100.187, 82.794, 102.381]
+  Phosphate center: [95.783, 83.723, 101.366]
+
+Residue   -1:
+  Sugar centroid: [102.052, 80.555, 107.445]
+  Phosphate center: [98.740, 79.831, 104.388]
+
+Residue    0:
+  Sugar centroid: [101.685, 79.866, 113.212]
+  Phosphate center: [100.558, 77.619, 109.450]
+
+Residue    1:
+  Sugar centroid: [103.564, 73.462, 113.632]
+  Phosphate center: [100.489, 76.895, 115.311]
+
+Residue    2:
+  Sugar centroid: [104.101, 68.130, 115.538]
+  Phosphate center: [105.149, 71.969, 116.553]
+
+Residue    3:
+  Sugar centroid: [105.004, 63.298, 113.030]
+  Phosphate center: [103.969, 64.875, 116.983]
+
+Residue    4:
+  Sugar centroid: [105.932, 60.100, 108.848]
+  Phosphate center: [104.845, 59.659, 112.727]
+
+Residue    5:
+  Sugar centroid: [109.519, 58.839, 104.209]
+  Phosphate center: [105.433, 57.917, 105.962]
+
+Residue    6:
+  Sugar centroid: [113.432, 59.413, 101.247]
+  Phosphate center: [109.437, 56.984, 101.156]
+
+Residue    7:
+  Sugar centroid: [118.208, 61.023, 101.123]
+  Phosphate center: [114.780, 60.655, 98.210]
+
+Residue    8:
+  Sugar centroid: [122.804, 60.703, 103.891]
+  Phosphate center: [121.347, 61.861, 99.596]
+
+Residue    9:
+  Sugar centroid: [127.108, 59.870, 106.932]
+  Phosphate center: [126.355, 61.524, 102.948]
+
+Residue   10:
+  Sugar centroid: [128.738, 55.931, 110.155]
+  Phosphate center: [130.241, 59.918, 108.653]
+
+Residue   11:
+  Sugar centroid: [129.385, 50.528, 111.985]
+  Phosphate center: [130.648, 54.845, 113.104]
+
+Residue  -11:
+  Sugar centroid: [124.000, 46.523, 104.800]
+  Phosphate center: [126.427, 42.899, 104.699]
+
+Residue  -10:
+  Sugar centroid: [120.518, 46.744, 108.663]
+  Phosphate center: [120.297, 46.248, 104.789]
+
+Residue   -9:
+  Sugar centroid: [120.354, 49.932, 112.936]
+  Phosphate center: [118.156, 45.881, 111.400]
+
+Residue   -8:
+  Sugar centroid: [118.853, 54.806, 115.044]
+  Phosphate center: [117.424, 50.685, 115.370]
+
+Residue   -7:
+  Sugar centroid: [120.530, 60.012, 113.663]
+  Phosphate center: [119.767, 57.536, 117.235]
+
+Residue   -6:
+  Sugar centroid: [119.163, 64.872, 111.417]
+  Phosphate center: [121.747, 63.360, 114.603]
+
+Residue   -5:
+  Sugar centroid: [117.427, 68.569, 107.826]
+  Phosphate center: [119.562, 68.550, 111.277]
+
+Residue   -4:
+  Sugar centroid: [114.076, 69.142, 103.128]
+  Phosphate center: [117.211, 71.112, 105.174]
+
+Residue   -3:
+  Sugar centroid: [109.242, 67.360, 102.144]
+  Phosphate center: [112.283, 69.852, 100.157]
+
+Residue   -2:
+  Sugar centroid: [104.331, 65.193, 102.524]
+  Phosphate center: [107.064, 66.191, 99.331]
+
+Residue   -1:
+  Sugar centroid: [99.346, 64.554, 104.333]
+  Phosphate center: [101.681, 63.252, 100.865]
+
+Residue    0:
+  Sugar centroid: [95.210, 67.576, 102.598]
+  Phosphate center: [96.152, 63.232, 102.609]
+
+Residue    1:
+  Sugar centroid: [87.815, 69.371, 104.741]
+  Phosphate center: [91.600, 68.339, 102.137]
+
+Residue    2:
+  Sugar centroid: [84.006, 73.266, 105.286]
+  Phosphate center: [84.442, 69.060, 103.971]
+
+Residue    3:
+  Sugar centroid: [80.675, 77.541, 105.152]
+  Phosphate center: [80.547, 73.647, 103.629]
+
+Residue    4:
+  Sugar centroid: [78.883, 83.697, 103.661]
+  Phosphate center: [77.411, 79.557, 105.388]
+
+Residue    5:
+  Sugar centroid: [80.354, 87.830, 100.681]
+  Phosphate center: [77.405, 87.010, 104.030]
+
+Residue    6:
+  Sugar centroid: [80.451, 95.394, 97.440]
+  Phosphate center: [80.652, 91.313, 99.165]
+
