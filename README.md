@@ -1,6 +1,3 @@
-# Capstone Team L
+# Description
 
-BE 177A Capstone Project - Team L
-
-TODOs:
--add test data
+For generating test data files for BE 177A/B Capstone Project Team L
