@@ -1,6 +1,0 @@
-Optimizations:
-- using square value of euclidean distance (ie without the square root) where possible. Square root operation is kinda expensive.
-
-- use sklearn.metrics.pairwise_distances to calculate the distance matrix
-https://stackoverflow.com/a/70902690
-https://stackoverflow.com/a/56006902
