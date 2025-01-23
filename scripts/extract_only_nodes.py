@@ -21,7 +21,8 @@ input_pdb_file = r"C:\Users\noelu\Downloads\6gtg.pdb"   # r for raw string, help
 # -=-Optional-=-
 # Leaving this blank as r"" is OK. It'll default to the current folder. 
 # If you do specify a folder, make sure it exists locally first, since I didn't set permissions in the code to make new directories.
-output_folder = r"C:\Users\noelu\Downloads\DELETEME"   
+output_folder = r""   
+# output_folder = r"C:\Users\noelu\Downloads\DELETEME"   
 #####################################
 
 
